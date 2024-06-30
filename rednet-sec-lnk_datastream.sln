@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rednet-sec-lnk_datastream", "rednet-sec-lnk_datastream.csproj", "{BB183093-A3F8-46C2-8DE7-FFAF336BCB56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB183093-A3F8-46C2-8DE7-FFAF336BCB56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB183093-A3F8-46C2-8DE7-FFAF336BCB56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB183093-A3F8-46C2-8DE7-FFAF336BCB56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB183093-A3F8-46C2-8DE7-FFAF336BCB56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7879801D-39BA-4C61-9EFC-D92C692CC86E}
+	EndGlobalSection
+EndGlobal
